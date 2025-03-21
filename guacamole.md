@@ -3,3 +3,5 @@
 * avocado
 * cilantro 
 * salt
+* lime juice
+* garlic
