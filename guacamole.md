@@ -1,2 +1,5 @@
 # GUAC RECIPE
-- avocado
+## Ingredients
+* avocado
+* cilantro 
+* salt
