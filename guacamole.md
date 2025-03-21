@@ -5,3 +5,6 @@
 * salt
 * lime juice
 * garlic
+
+##Instructions
+* Mash the avocado.
