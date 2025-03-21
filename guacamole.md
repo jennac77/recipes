@@ -6,5 +6,6 @@
 * lime juice
 * garlic
 
-##Instructions
+## Instructions
 * Mash the avocado.
+* Chop the cilantro and garlic.
